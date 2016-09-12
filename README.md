@@ -1,5 +1,7 @@
 #Phoney.club - Tech Crunch SF
 
+Featured on TechCrunch: https://techcrunch.com/2016/09/11/phoney-club-gets-you-out-of-uncomfortable-conversations/
+
 ## Purpose
 Design a mobile-first app for those times when you're trapped in a bad conversation and need a smooth excuse to escape.
 
