@@ -1,4 +1,4 @@
-#Phoney.club - Tech Crunch SF
+#Phoney.club - TechCrunch SF Disrupt Hackathon
 
 Featured on TechCrunch: https://techcrunch.com/2016/09/11/phoney-club-gets-you-out-of-uncomfortable-conversations/
 
