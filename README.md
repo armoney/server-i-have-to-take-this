@@ -1,6 +1,6 @@
-#Phoney.club - TechCrunch SF Disrupt Hackathon
+#Phoney.club - *TechCrunch SF Disrupt* Hackathon
 
-Featured on TechCrunch: https://techcrunch.com/2016/09/11/phoney-club-gets-you-out-of-uncomfortable-conversations/
+**Featured on** *TechCrunch*: https://techcrunch.com/2016/09/11/phoney-club-gets-you-out-of-uncomfortable-conversations/
 
 ## Purpose
 Design a mobile-first app for those times when you're trapped in a bad conversation and need a smooth excuse to escape.
